@@ -21,3 +21,20 @@ Solucion: Solucionamos esto analizando cual era el origen de los conflicto y ace
 - Estudiante 3 (miguel): Intentó simular el conflicto con set_done/remove_task.
 5. Reflexiones:
 - Aprendimos a gestionar ramas y administrar cambios aparte de manejar un buen flujo de trabajo colaborativo en donde la comunicación fue primordial.
+
+
+-------------------------------------------------------------------------------------------
+
+- Cómo coordinaron el trabajo en equipo para evitar conflictos innecesarios?
+
+- el trabajo en equipo se coordino e hizo mas fácil debido al uso de reuniones y herramientas que nos permitían ver lo que los integrantes del grupo hacían en tiempo real. Así evitamos conflictos innecesarios y también optimizamos tiempo al corregir errores que se presentaban en el momento.
+
+- ¿Qué aprendieron sobre la resolución de conflictos en Git?
+
+- aprendimos que para solucionar y evitar conflictos en git es necesaria la comunicación entre miembros del equipo y también un correcta revision de cambios que deban aprobarse para evitar conflictos y daños que afecten el progreso de todos.
+
+- Por qué es importante usar Pull Requests en proyectos colaborativos?
+ 
+-  es importante para poder tener un control de la calidad de código elevado y así evitar conflictos ya que al estar sujeto a revisiones los errores son identificados antes de unirse a la rama main.
+
+- Mejorar un flujo de trabajo con herramientas de CI/CD (Integración Continua / Entrega Continua) implica automatizar y optimizar todo el proceso desde que se escribe código hasta que llega a producción, reduciendo errores y acelerando entregas. la CI busca cada cambio en el código y validarlo rápidamente y el objetivo del Cd es facilitar el despliegue del código aprobado en cualquier entorno.
