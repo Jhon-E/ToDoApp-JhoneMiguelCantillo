@@ -1,0 +1,23 @@
+
+1. Pasos realizados:
+- Creamos el repositorio ToDoApp-jhonemiguelcantillo en GitHub.
+- Cada miembro creó una rama (jhoneiker, Cantillo, Miguel).
+- Implementamos funcionalidades dadas.
+2. Comandos Git:
+- git clone <URL>: Clonar el repositorio.
+- git checkout -b <NOMBRE>: Crear rama.
+- git add <archivo>: Añadir cambios.
+- git commit -m "mensaje": Hacer commit.
+- git push origin estudiante1: Empujar rama.
+- git merge <NOMBRE_RAMA>: Fusionar rama con conflicto.
+- git push origin --delete <NOMBRE_RAMA>: Eliminar rama.
+- git fetch: Obtener cambios el repositorio remoto.
+3. Conflictos:
+- Nos dio conflictp a la hora de hacer merge y a la hora de integrar los cambios a la rama.
+Solucion: Solucionamos esto analizando cual era el origen de los conflicto y aceptando los cambios de los mismos siempre y cuando estos no interfieran con el correcto funcionamiento del programa.
+4. Contribuciones:
+- Estudiante 1 (jhoneiker): Añadió mark_as_complete y actualizó main.py.
+- Estudiante 2 (cantillo): Añadió delete_task y actualizó README.md.
+- Estudiante 3 (miguel): Intentó simular el conflicto con set_done/remove_task.
+5. Reflexiones:
+- Aprendimos a gestionar ramas y administrar cambios aparte de manejar un buen flujo de trabajo colaborativo en donde la comunicación fue primordial.
